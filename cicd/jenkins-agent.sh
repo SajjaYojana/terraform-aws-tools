@@ -1,3 +1,4 @@
+#!/bin/bash
 
 yum install fontconfig java-17-openjdk -y
 yum install -y yum-utils
